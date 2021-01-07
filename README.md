@@ -4,4 +4,4 @@
 Repository about the activities that we carried out at EDEM during 20-21.
 
 1. [Statistics programming with Python](https://github.com/jabrio/EDEM_Exercises_Statistics_Python)
-2. [Data Treatment excercises](https://github.com/jabrio/EDEM_DT_Exercises)
+2. [Data Treatment exercises](https://github.com/jabrio/EDEM_DT_Exercises)
